@@ -31,8 +31,3 @@ The Local Community Event Portal designed to digitally bring together members of
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/community-event-portal.git
